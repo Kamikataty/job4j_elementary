@@ -19,4 +19,5 @@ public class MathFunction {
         System.out.println(total);
         System.out.println(result3);
     }
+
 }
